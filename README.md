@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Desmond!
 
-I'm a Full stack developer who have passion for user friendly interfaces. I´m based in Lagos, Nigeria.
+I'm a Full stack developer who have passion for user friendly interfaces. I´m based on the Internet but I live in Lagos, Nigeria.
 
 My friend calls me Wolf Of Silicon Valley because of my amazing work ethics and strong will to get things done. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code (cliché right?). ✨😍 Software development is exhilarant because you can never really get bored unless you're scared to try out new things. 
 
