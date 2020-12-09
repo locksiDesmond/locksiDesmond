@@ -34,6 +34,8 @@ If you meet me in the outside world, feel free to call me Wolf of Silicon Valley
 There's hardly anything I'm not interested in, Humor me.
 
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=locksiDesmond&count_private=true&show_icons=true&theme=radical)
+
 <!--
 **locksiDesmond/locksiDesmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
