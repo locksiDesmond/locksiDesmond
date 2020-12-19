@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Desmond!
 
-I'm a Full stack developer who have passion for user friendly interfaces. I´m based on the Internet but I live in Lagos, Nigeria.
+I'm a Full stack developer also an open source contributor who have passion for user friendly interfaces. I´m based on the Internet but I live in Lagos, Nigeria.
 
 My friend calls me Wolf Of Silicon Valley because of my amazing work ethics and strong will to get things done. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code (cliché right?). ✨😍 Software development is exhilarant because you can never really get bored unless you're scared to try out new things. 
 
@@ -15,6 +15,7 @@ BTW, SVG's are cool and I'll be getting into it.<br/>
 
 I've gotten the opportunity to work on different projects, all of which are interesting and took me on a different journey, learn new things and have fun while at it. I enjoy the process a little bit more than i enjoy the outcome.
 - [Sorosoke app](https://sorosoke.netlify.app/) - A website that supports the advocate of good governance and a better Nigeria.
+- [create-animation-ws](https://www.npmjs.com/package/create-animation-ws) - A NPM package that supplies a basic template for HTML, GSAP and scrollTrigger.
 - [Untitled](http://feguber.vercel.app/) - An ecommerce platform.
 - [Locksi page](https://github.com/locksiDesmond/google-pages) - Trust me it works.
 - [Calculator](https://locksidesmond.github.io/calculator/) - I made this during black lives matter (2020) (I added a little incentive).
