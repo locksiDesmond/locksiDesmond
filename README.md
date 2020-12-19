@@ -14,11 +14,11 @@ BTW, SVG's are cool and I'll be getting into it.<br/>
 ### Personal projects 😃🧾
 
 I've gotten the opportunity to work on different projects, all of which are interesting and took me on a different journey, learn new things and have fun while at it. I enjoy the process a little bit more than i enjoy the outcome.
-- [Sorosoke app](https://github.com/viubi/sorosoke-frontend) - A website that supports the advocate of good governance and a better Nigeria.
+- [Sorosoke app](https://sorosoke.netlify.app/) - A website that supports the advocate of good governance and a better Nigeria.
 - [Untitled](http://feguber.vercel.app/) - An ecommerce platform.
 - [Locksi page](https://github.com/locksiDesmond/google-pages) - Trust me it works.
-- [Calculator](https://github.com/locksiDesmond/calculator) - I made this during black lives matter (2020) (I added a little incentive).
-- [Amazing todo app](https://github.com/locksiDesmond/Todo) - description cannot be blank.
+- [Calculator](https://locksidesmond.github.io/calculator/) - I made this during black lives matter (2020) (I added a little incentive).
+- [Amazing todo app](https://todo-lemon.vercel.app/) - description cannot be blank.
 
 ### What's Next? 
 I never think of the future - it comes soon enough. (Albert Einstein)
