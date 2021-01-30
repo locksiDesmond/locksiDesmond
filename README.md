@@ -22,7 +22,10 @@ I've gotten the opportunity to work on different projects, all of which are inte
 - [Amazing todo app](https://todo-lemon.vercel.app/) - description cannot be blank.
 
 ### What's Next? 
-I never think of the future - it comes soon enough. (Albert Einstein)
+
+> #### "I never think of the future - it comes soon enough"
+>
+> *- Albert Einstein*
 
 ### Find me  🌎
 If you meet me in the outside world, feel free to call me Wolf of Silicon Valley, then I'll know you read this and I probably owe you a drink or something.<br/>
@@ -36,6 +39,7 @@ There's hardly anything I'm not interested in, Humor me.
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=locksiDesmond&count_private=true&show_icons=true&theme=radical)
+
 
 <!--
 **locksiDesmond/locksiDesmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
