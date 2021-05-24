@@ -8,7 +8,10 @@ My friend calls me Wolf Of Silicon Valley because of my amazing work ethics and 
 ### What I'm focusing on 👨‍💻
 
 Currently improving my React skills: NextJS, Create-react-app and React Native.<br />
-I'd also picked some exicting technologies like Graph-Ql, Node (express), and couple of databases like Mongo, <br/> Postgres Sql, Fauna Db (I saw a youtube video about it once and it's fascinating).<br/>
+> I'd also picked some exicting technologies like Graph-Ql, Node (express), and couple of databases like Mongo, <br/> Postgres Sql, Fauna Db (I saw a youtube video > about it once and it's fascinating).<br/>
+> *-I haven't done these quite well* <br/>
+
+However, I improved on my Node skill and added testing to Node and React. I sleep better at night knowing the code are well tested.
 BTW, SVG's are cool and I'll be getting into it.<br/>
 
 ### Personal projects 😃🧾
