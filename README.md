@@ -45,6 +45,7 @@ If you meet me in the outside world, feel free to call me Wolf of Silicon Valley
 
 ![Twitter Badge](https://img.shields.io/twitter/follow/locksi_Desmond?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desmond-adenola-0a901a199//)](https://www.linkedin.com/in/desmond-adenola-0a901a199/)
+[![Visits Badge](https://badges.pufler.dev/visits/locksiDesmond/locksiDesmond)](https://badges.pufler.dev)
 
 ### Fun fact ⚡
 
