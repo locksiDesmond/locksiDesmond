@@ -20,6 +20,7 @@ BTW, SVG's are cool and I'll love to work on a project that requires it.<br/>
 ### 🌱 I’m currently learning 
 - React Native.
 - Technical Writing
+- Django
 
 
 ### Personal projects 😃🧾
