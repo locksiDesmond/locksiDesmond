@@ -50,7 +50,7 @@ If you meet me in the outside world, feel free to call me Wolf of Silicon Valley
 
 ### Fun fact ⚡
 
-There's hardly anything I'm not interested in, Humor me. My interest range across different discipline. I've enjoy reading about philosophers, psychology, movie production, arts, music and sports. (This is susceptible to change
+There's hardly anything I'm not interested in, Humor me. My interest range across different discipline. I've enjoy reading about philosophy, psychology, movie production, arts, music and sports. (This is susceptible to change
 
 I always try to put easter eggs in my early works. I'll try to do that more.
 
