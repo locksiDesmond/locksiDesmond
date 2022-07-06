@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Hello, Have you met Desmond?
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, Have you met Desmond?
 
 I'm a Full stack developer, open source contributor, who is passionate on learning so as to improve user experience and provide the best quality in services. I´m based on the Internet but I live in [state], Nigeria.
 
