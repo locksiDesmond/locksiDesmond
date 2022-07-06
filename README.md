@@ -18,14 +18,14 @@ BTW, SVG's are cool and I'll love to work on a project that requires it.<br/>
 2021, I didn't release any personal project because i've was busy however intended to work on a couple of project (individually or with friends).
 
 ### 🌱 I’m currently learning 
-- React Native.
-- Technical Writing
+- React Native
+- Technical Writing (I published an article on [hashnode](http://locksi.hashnode.dev/))
 - Django
 
 
-### Personal projects 😃🧾
+### Personal projects 😃🧾 
 
-I've gotten the opportunity to work on different projects, all of which are interesting and took me on a different journey, learn new things and have fun while at it. I enjoy the process a little bit more than I enjoy the outcome.
+I've gotten the opportunity to work on different projects, all of which are interesting and took me on a different journey, learn new things and have fun while at it. I enjoy the process a little bit more than I enjoy the outcome. p.s This is oudated as these are project i worked on before 2021.
 - [Sorosoke app](https://sorosoke.netlify.app/) - A website that supports the advocate of good governance and a better Nigeria.
 - [create-animation-ws](https://www.npmjs.com/package/create-animation-ws) - A NPM package that supplies a basic template for HTML, GSAP and scrollTrigger.
 - [Untitled](http://feguber.vercel.app/) - An ecommerce platform.
