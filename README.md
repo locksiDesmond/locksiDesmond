@@ -1,18 +1,17 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, Have you met Desmond?
 
-I'm a Full stack developer, open source contributor, who is passionate on learning so as to improve user experience and provide the best quality in services. I´m based on the Internet but I live in [state], Nigeria.
+I'm a Full Stack Developer who contributes to open source and is passionate about learning in order to enhance user experience and offer the highest caliber of services. I´m based on the Internet but I live in [state], Nigeria. 
 
-My friend calls me Wolf Of Silicon Valley because of my amazing work ethics and strong will to get things done. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code (cliché right?). Software development is exhilarant because It never get boring and there are still alot of it that needs improvement. 
-
+My friend refers to me as the "Wolf of Silicon Valley" because of my incredible work ethic and determination to complete tasks. I've had the opportunity to become deeply involved in a variety of works and projects, all of which aim to improve the world a little bit through design and code (cliche, no?). Software development is exciting because there is always room for improvement and it never gets old.
 
 ### What I'm focusing on 👨‍💻
 
-Currently, I can boast of 3 years React experience but that's just the beginning. There's still so much I want to learn and i'm not stopping anytime soon.<br />
-I'd also picked some exicting technologies like Graph-Ql, Node (express), Mongo, <br/> Postgres Sql, Fauna Db (I've not been able to use this).<br/>
-In the past year, I improved my code integrity by ensuring to add tests. Now I sleep better at night knowing the code are well tested.
+I now have three years of React experience, but that is just the start. I still have a ton to learn, and I won't be stopping anytime soon. <br /> 
+Additionally, I chose other exciting technologies, such as Graph-Ql, Node (express), Mongo, Postgres SQL, and Fauna Db (which I haven't been able to use). 
+I increased the integrity of my code over the past year by making sure to implement tests. Now that the code has been thoroughly tested, I can sleep better at night.
 
-I intended to take on more leadership position and responsibilty. I can't share more than this at the moment but i'm working on it.<br/>
-Also, I want to help quite a number of developers make thier mark in the programming industry (more on this later too). <br/>
+I intended to assume more responsibility and leadership roles. I'm working on it but I can't say any more than this right now. <br/> 
+I also aim to assist quite a few developers in becoming recognized in the programming profession (more on this later too). <br/>
 
 BTW, SVG's are cool and I'll love to work on a project that requires it.<br/>
 2021, I didn't release any personal project because i've was busy however intended to work on a couple of project (individually or with friends).
@@ -25,7 +24,7 @@ BTW, SVG's are cool and I'll love to work on a project that requires it.<br/>
 
 ### Personal projects 😃🧾 
 
-I've gotten the opportunity to work on different projects, all of which are interesting and took me on a different journey, learn new things and have fun while at it. I enjoy the process a little bit more than I enjoy the outcome. p.s This is oudated as these are project i worked on before 2021.
+I've had the chance to work on a variety of interesting projects that have each taken me on a unique journey, learned new things, and it's been enjoyable.  I like the process a  little bit more than I like the result..  P.S. This is outdated because I worked on these projects before 2021.
 - [Sorosoke app](https://sorosoke.netlify.app/) - A website that supports the advocate of good governance and a better Nigeria.
 - [create-animation-ws](https://www.npmjs.com/package/create-animation-ws) - A NPM package that supplies a basic template for HTML, GSAP and scrollTrigger.
 - [Untitled](http://feguber.vercel.app/) - An ecommerce platform.
