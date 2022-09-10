@@ -55,6 +55,7 @@ I put easter eggs in my early works but i've not been able to do that in recent 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=locksiDesmond&count_private=true&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=locksiDesmond&" alt="locksiDesmond" /></p>
 
 
 <!--
